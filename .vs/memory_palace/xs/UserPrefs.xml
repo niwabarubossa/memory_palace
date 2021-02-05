@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{EA273971-1288-D467-05D7-2D92453ECC49}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Unity_chan_3D.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Unity_chan_3D.cs" Line="18" Column="57" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f94908dd-1ada-4365-bdf4-e9c02cec43d1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
