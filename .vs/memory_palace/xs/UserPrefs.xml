@@ -1,14 +1,18 @@
 ﻿<Properties StartupConfiguration="{EA273971-1288-D467-05D7-2D92453ECC49}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Unity_chan_3D.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GroundDecision.cs">
     <Files>
-      <File FileName="Assets/Scripts/Unity_chan_3D.cs" Line="18" Column="57" />
+      <File FileName="Assets/Scripts/Axis.cs" Line="16" Column="1" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="110" Column="10" />
+      <File FileName="Assets/Scripts/GroundDecision.cs" Line="34" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f94908dd-1ada-4365-bdf4-e9c02cec43d1" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/niryogo/Desktop/unity_files/memory_palace/Assets/Scripts/Unity_chan_3D.cs" relfile="Assets/Scripts/Unity_chan_3D.cs" line="26" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
